@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UkupniMaterialDesign1</string>
+    <string name="find_location">Find Location</string>
+    <string name="opcije">Opcije</string>
+    <string name="nadi_lokaciju">Nadi lokaciju</string>
+    <string name="long_text">Long text</string>
+</resources>
